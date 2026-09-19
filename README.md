@@ -221,4 +221,4 @@ Marble is offered as a complete free version, fully equipped with all features a
 Start exploring the world today! Download Marble free for Windows and unlock the full potential of geographical exploration!
 
 ---
-**Last updated:** 2026-09-19 04:19:53 UTC
+**Last updated:** 2026-09-19 09:21:00 UTC
